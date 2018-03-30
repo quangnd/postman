@@ -1,8 +1,16 @@
-## After Cloning
-After cloning the repo, make sure to run `npm install` in the root of the project directory.
+# Install Guide
+
+## Initial
+
+1. Install NodeJS, Git, PostgresSQL if you don't have them availabel.
+2. Run `npm install`.
+3. Run `npm run db:create`, this will create & seed the database.
+
 
 ## Creating the database
-From the command line, in the root of the project, run `npm run db:create` this will create & seed the database.
+
+1. Run `npm run db:create` this will create & seed the database.
 
 ## Running the application
-From the command line, in the root of the project, run `npm run start:dev` this will start the server on port 3000
+
+1. Run `npm run start:dev` this will start the server on port 3000
