@@ -14,3 +14,12 @@
 ## Running the application
 
 1. Run `npm run start:dev` this will start the server on port 3000
+
+## Some commands need to remember
+
+```
+npm run start:dev - Run the project
+npm run db:create - Create new Development Database
+npm run db:drop - Drop Development Database
+Ctrl + C - Terminate the running process (in Console window)
+```
